@@ -29,7 +29,7 @@ If you don't already have a [Vercel account](https://vercel.com/signup), create 
 1. Change the **Production Branch** to `10-lesson` and save.
 1. Navigate to the **Environment Variables** tab.
 1. Change `AUTH0_BASE_URL` to your custom Vercel domain noted earlier. 
-1. To redeploy, you will need to make a new commit to the `10-lesson` branch. You can simply open the `README.md` file, add a space somewhere, and make a new commit.
+1. To redeploy, you'll need to make a new commit to the `10-lesson` branch. You can simply open the `README.md` file, add a space somewhere, and make a new commit.
 
 ## Task 3: Update Auth0 settings
 
